@@ -1,22 +1,22 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 <?xml-stylesheet type = "text/xsl" href = "students.xsl"?>
 <class> 
-   <student rollno = "393">
-      <firstname>Dinkar</firstname>  
-      <lastname>Kad</lastname> 
-      <nickname>Dinkar</nickname> 
+   <student rollno = "113">
+      <firstname>Sam</firstname>  
+      <lastname>Chavan</lastname> 
+      <nickname>Samu</nickname> 
       <marks>85</marks>
    </student> 
-   <student rollno = "493"> 
-      <firstname>Vaneet</firstname> 
+   <student rollno = "112"> 
+      <firstname>Pranoti</firstname> 
       <lastname>Gupta</lastname> 
-      <nickname>Vinni</nickname> 
+      <nickname>Pannu</nickname> 
       <marks>95</marks>
    </student>
-   <student rollno = "593"> 
-   <firstname>Jasvir</firstname> 
+   <student rollno = "111"> 
+   <firstname>Aditya</firstname> 
     <lastname>Singh</lastname> 
-    <nickname>Jazz</nickname> 
+    <nickname>Adi</nickname> 
     <marks>90</marks> 
    </student> 
 </class>
